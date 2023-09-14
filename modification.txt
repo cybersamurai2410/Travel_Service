@@ -1,1 +1,2 @@
 Added modification to file.
+Added comments to code.
